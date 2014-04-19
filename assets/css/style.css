@@ -1,0 +1,28 @@
+*{
+	font-family:Arial;
+	font-size:11px;
+}
+
+body{
+	margin:0 auto;
+	padding-top:20px;
+	width:800px;
+}
+
+ul li{
+	list-style-type:none;
+	float:left;
+	margin-left:10px;
+}
+
+.clear{
+	clear:both;
+}
+
+.left{
+	float:left;
+}
+
+#result{
+	margin-top:20px;
+}
